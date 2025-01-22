@@ -1,0 +1,9 @@
+gdown
+scipy
+shapely
+opencv-python
+timm==0.6.12
+mmcv-full==1.6.1
+numpy==1.23.5
+git+https://github.com/cocodataset/panopticapi.git
+git+https://github.com/mcordts/cityscapesScripts.git
