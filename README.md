@@ -28,10 +28,11 @@ For the dataset preparation, plese refer to the [Mask2Former guide](https://gith
 ## Training
 
 To train the model with `train_net.py`, run the following
-    ```bash
-    python train_net.py --num-gpus 4 \
-      --config-file configs/cityscapes/semantic-segmentation/convnext/mpsa_convnext_base_bs16_90k.yaml
-    ```
+
+```bash
+python train_net.py --num-gpus 4 \
+  --config-file configs/cityscapes/semantic-segmentation/convnext/mpsa_convnext_base_bs16_90k.yaml
+```
 
 ## Testing
 
