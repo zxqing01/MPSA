@@ -17,6 +17,7 @@
 
 - [Installation](#installation)
 - [Data preparation](#data-preparation)
+- [Download Pretrained Weights](#Download Pretrained Weights)
 - [Training](#training)
 - [Testing](#training)
 
@@ -40,9 +41,11 @@ pip install -r requirements.txt
 For the dataset preparation, plese refer to the [Mask2Former guide](https://github.com/facebookresearch/Mask2Former/blob/main/datasets/README.md).
 
 ## Download Pretrained Weights
+
+It's common to initialize from backbone models pre-trained on ImageNet classification tasks. We use [ConvNeXt](https://github.com/facebookresearch/ConvNeXt) for our experiments.
+
 <details>
 <summary>ConvNeXt</summary>
-It's common to initialize from backbone models pre-trained on ImageNet classification tasks. We use [ConvNeXt](https://github.com/facebookresearch/ConvNeXt) for our experiments.
   
 - [Official Repo](https://github.com/facebookresearch/ConvNeXt)
 - `convert-pretrained-model-to-d2.py`: Tool to convert ConvNeXt pre-trained weights for D2.
