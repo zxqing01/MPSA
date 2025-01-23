@@ -17,7 +17,7 @@
 
 - [Installation](#installation)
 - [Data preparation](#data-preparation)
-- [Download Pretrained Weights](#Download Pretrained Weights)
+- [Download Pretrained Weights](#pretrained-weight)
 - [Training](#training)
 - [Testing](#training)
 
