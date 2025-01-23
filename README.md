@@ -1,7 +1,17 @@
-# MPSA
+# Balancing Performance and Efficiency: Towards Superior Image Segmentation with Adaptive Sparse Attention
 
-![architecture](images/mpsa.png)
-![architecture](images/city.png)
+## Overview
+<p align="center">
+  <img src="images/mpsa.png" alt="MPSA" width="1000">
+</p>
+
+<p align="center"> The overall architecture of the MPSA. </p>
+
+
+## 🤝Result 
+<p align="center">
+  <img src="images/city.png" alt="Result" width="1000">
+</p>
 
 ## Table of Contents
 
