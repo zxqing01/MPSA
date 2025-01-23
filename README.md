@@ -39,6 +39,21 @@ pip install -r requirements.txt
 
 For the dataset preparation, plese refer to the [Mask2Former guide](https://github.com/facebookresearch/Mask2Former/blob/main/datasets/README.md).
 
+## Download Pretrained Weights
+<details>
+<summary>ConvNeXt</summary>
+It's common to initialize from backbone models pre-trained on ImageNet classification tasks. We use [ConvNeXt](https://github.com/facebookresearch/ConvNeXt) for our experiments.
+  
+- [Official Repo](https://github.com/facebookresearch/ConvNeXt)
+- `convert-pretrained-model-to-d2.py`: Tool to convert ConvNeXt pre-trained weights for D2.
+
+    ```bash
+    wget https://dl.fbaipublicfiles.com/convnext/convnext_base_22k_1k_384.pth
+    python tools/convert-pretrained-model-to-d2.py convnext_base_22k_1k_384.pth convnext_base_22k_1k_384.pkl
+    ```
+
+</details>
+
 ## Training
 
 To train the model with `train_net.py`, run the following
