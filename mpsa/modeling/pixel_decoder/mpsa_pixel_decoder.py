@@ -185,7 +185,7 @@ class stripeconv(BaseModule):
                  out_channels,
                  inter_channels,
                  num_heads=8):
-        super(ConvolutionalAttention,self).__init__()
+        super(stripeconv,self).__init__()
         assert out_channels % num_heads == 0, \
             "out_channels ({}) should be be a multiple of num_heads ({})".format(out_channels, num_heads)
         self.in_channels = in_channels
