@@ -9,7 +9,7 @@ MODEL:
     DROP_PATH_RATE: 0.5
     LSIT: 1.0
     OUT_INDICES: [0, 1, 2, 3]
-  WEIGHTS: "pretrained_models/convenxt/convnext_base_22k_1k_384.pkl"
+  WEIGHTS: "pretrained_models/convnext/convnext_base_22k_1k_384.pkl"
   PIXEL_MEAN: [123.675, 116.280, 103.530]
   PIXEL_STD: [58.395, 57.120, 57.375]
   
