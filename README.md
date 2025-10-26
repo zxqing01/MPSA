@@ -57,6 +57,13 @@ It's common to initialize from backbone models pre-trained on ImageNet classific
 
 </details>
 
+## Checkpoints
+
+- MPSA_R50: [Baidu Cloud](https://pan.baidu.com/s/1ojXDOakzbyIxxugvIe3GBQ?pwd=qf6q)  Password: qf6q
+- MPSA_ConvNeXt-B: [Baidu Cloud](https://pan.baidu.com/s/1DfXMlM4pz6VHvrHXc38ixQ?pwd=u27w)  Password: u27w
+
+Note: The checkpoints will be continuously updated. 
+
 ## Training
 
 To train the model with `train_net.py`, run the following
