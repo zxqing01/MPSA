@@ -61,12 +61,10 @@ It's common to initialize from backbone models pre-trained on ImageNet classific
 ## Checkpoints
 
 - MPSA_R50:
-  [Google Drive](https://drive.google.com/file/d/1L4LvbFkmHgwdLK2T6uUJxigQKhV-c79L/view?usp=sharing) / 
-  [Baidu Cloud](https://pan.baidu.com/s/1ojXDOakzbyIxxugvIe3GBQ?pwd=qf6q)  Password: qf6q
+  [Google Drive](https://drive.google.com/file/d/1L4LvbFkmHgwdLK2T6uUJxigQKhV-c79L/view?usp=sharing) / [Baidu Cloud](https://pan.baidu.com/s/1ojXDOakzbyIxxugvIe3GBQ?pwd=qf6q)  Password: qf6q
   
 - MPSA_ConvNeXt-B:
-  [Google Drive](https://drive.google.com/file/d/1XM4n05bZ_BXB40txtFwECU2RqfsbaEZ_/view?usp=sharing) /  
-  [Baidu Cloud](https://pan.baidu.com/s/1DfXMlM4pz6VHvrHXc38ixQ?pwd=u27w)  Password: u27w
+  [Google Drive](https://drive.google.com/file/d/1XM4n05bZ_BXB40txtFwECU2RqfsbaEZ_/view?usp=sharing) /  [Baidu Cloud](https://pan.baidu.com/s/1DfXMlM4pz6VHvrHXc38ixQ?pwd=u27w)  Password: u27w
  
   
 
