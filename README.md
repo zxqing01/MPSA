@@ -18,6 +18,7 @@
 - [Installation](#installation)
 - [Data preparation](#data-preparation)
 - [Download Pretrained Weights](#pretrained-weight)
+- [Checkpoints](#Checkpoints)
 - [Training](#training)
 - [Testing](#training)
 
